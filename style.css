@@ -1,0 +1,10 @@
+body{
+    background-color: paleturquoise;
+    background-image: url("https://eltallerdehector.com/wp-content/uploads/2022/10/Spiderman-png-Clipart.png");
+    background-size: 500px;
+    background-repeat: no-repeat;
+}
+
+button{
+    background-color: red;
+}
